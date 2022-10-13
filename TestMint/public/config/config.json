@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x19505cb4bfE3ee9fcA258d845B63Df8BA1829Cb8",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x19505cb4bfe3ee9fca258d845b63df8ba1829cb8#tokentxns",
+  "NETWORK": {
+    "NAME": "Ethereum Goerli testnet",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "MADKIDTEST",
+  "SYMBOL": "MKT",
+  "MAX_SUPPLY": 3500,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
